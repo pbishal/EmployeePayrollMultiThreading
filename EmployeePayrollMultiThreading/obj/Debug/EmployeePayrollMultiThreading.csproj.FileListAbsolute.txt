@@ -1,0 +1,7 @@
+C:\Users\Bishal Pradhan\source\repos\EmployeePayrollMultiThreading\EmployeePayrollMultiThreading\bin\Debug\EmployeePayrollMultiThreading.exe.config
+C:\Users\Bishal Pradhan\source\repos\EmployeePayrollMultiThreading\EmployeePayrollMultiThreading\bin\Debug\EmployeePayrollMultiThreading.exe
+C:\Users\Bishal Pradhan\source\repos\EmployeePayrollMultiThreading\EmployeePayrollMultiThreading\bin\Debug\EmployeePayrollMultiThreading.pdb
+C:\Users\Bishal Pradhan\source\repos\EmployeePayrollMultiThreading\EmployeePayrollMultiThreading\obj\Debug\EmployeePayrollMultiThreading.csprojAssemblyReference.cache
+C:\Users\Bishal Pradhan\source\repos\EmployeePayrollMultiThreading\EmployeePayrollMultiThreading\obj\Debug\EmployeePayrollMultiThreading.csproj.CoreCompileInputs.cache
+C:\Users\Bishal Pradhan\source\repos\EmployeePayrollMultiThreading\EmployeePayrollMultiThreading\obj\Debug\EmployeePayrollMultiThreading.exe
+C:\Users\Bishal Pradhan\source\repos\EmployeePayrollMultiThreading\EmployeePayrollMultiThreading\obj\Debug\EmployeePayrollMultiThreading.pdb
