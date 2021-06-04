@@ -20,5 +20,19 @@ namespace EmployeePayrollMultiThreading
         public double Tax { get; set; }
         public double NetPay { get; set; }
         public DateTime StartDate { get; set; }
+        public EmployeeModel(string employeeName, DateTime startDate, long phoneNumber, string address, string department, string gender, double basicPay, double deductions, double taxablePay, double tax, double netPay)
+        {
+            this.EmployeeName = employeeName;
+            this.StartDate = startDate;
+            this.PhoneNumber = phoneNumber;
+            this.Address = address;
+            this.Department = department;
+            this.Gender = gender;
+            this.BasicPay = basicPay;
+            this.Deductions = deductions;
+            this.TaxablePay = taxablePay;
+            this.Tax = tax;
+            this.NetPay = netPay;
+        }
     }
 }
