@@ -10,7 +10,7 @@ namespace EmployeePayrollMultiThreading
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to Emp Multithreading");
+            Console.WriteLine("Welcome to Multithreading");
         }
     }
 }
